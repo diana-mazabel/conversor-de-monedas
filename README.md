@@ -30,4 +30,4 @@ Soporte las siguientes divisas:
 
   ---
 
-  > Resultado propuesto para el Challeng conversor de monedas propuesto por Alura Latam -ONE
+  > Resultado propuesto para el Challenge Conversor de Monedas para Alura Latam -ONE
