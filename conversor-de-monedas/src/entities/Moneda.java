@@ -1,3 +1,5 @@
+package entities;
+
 public class Moneda {
 
     private String monedaBase; //moneda inicial
@@ -13,6 +15,17 @@ public class Moneda {
         this.monedaBase = monedaBase;
         this.monedaObjetivo = monedaObjetivo;
         this.valor = valor;
+    }
+
+    //getters y setters
+
+
+    public String getMonedaBase() {
+        return monedaBase;
+    }
+
+    public void setMonedaBase(String monedaBase) {
+        this.monedaBase = monedaBase;
     }
 
     public String getMonedaObjetivo() {
@@ -33,7 +46,7 @@ public class Moneda {
 
     @Override
     public String toString() {
-        return "Moneda "+monedaBase+ " {" +
+        return "entities.Moneda "+monedaBase+ " {" +
                 "moneda='" + monedaObjetivo + '\'' +
                 ", valor=" + valor +
                 '}';

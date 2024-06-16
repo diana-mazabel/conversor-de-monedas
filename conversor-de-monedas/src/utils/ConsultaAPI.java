@@ -1,5 +1,8 @@
+package utils;
+
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
+import entities.Moneda;
 
 import java.io.IOException;
 import java.net.URI;
@@ -34,8 +37,6 @@ public class ConsultaAPI {
             System.out.println("Ocurrió un error");
             System.out.println(e.getMessage());
         }
-
-
         return moneda;
     }
 }
