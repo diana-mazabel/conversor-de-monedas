@@ -7,12 +7,13 @@ https://www.exchangerate-api.com/
 **Características**
 Conversión de Moneda: Convierte valores de una moneda a otra en tiempo real.
 Soporte las siguientes divisas: 
-                1 - USD - Dólar estadounidense
-                2 - MXN - Peso mexicano
-                3 - ARS - Peso argentino
-                4 - CLP - Peso chileno
-                5 - COP - Peso colombiano
-                
+
+ - USD - Dólar estadounidense
+ - MXN - Peso mexicano
+ - ARS - Peso argentino
+ - CLP - Peso chileno
+ - COP - Peso colombiano
+           
 **Instrucciones:**
   Elige la moneda de origen.
   Elige la moneda a la que deseas convertir.
